@@ -1,0 +1,32 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "test1",
+            "description": "ipsum lorum",
+            "date": "2024-01-01",
+            "imgPath": "/test"
+        },
+        {
+            "id": "2",
+            "name": "test2",
+            "description": "ipsum lorum",
+            "date": "2024-01-01",
+            "imgPath": "/test"
+        },
+        {
+            "id": "3",
+            "name": "test3",
+            "description": "ipsum lorum",
+            "date": "2024-01-01",
+            "imgPath": "/test"
+        },
+        {
+            "id": "4",
+            "name": "test4",
+            "description": "ipsum lorum",
+            "date": "2024-01-01",
+            "imgPath": "/test"
+        }
+    ]
+}
