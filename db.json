@@ -1,1 +1,5 @@
-[{"id":"849cf421-e82a-4d45-84ec-e5ca255bc172","name":"тестттт","description":"авыафылатпфва","dateTime":"2023-12-17 00:00:00Z","imgPath":"null"},{"id":"8179f9e7-da11-4293-a002-0ad93c52a302","name":"тестттт1234124","description":"авыафылатпфваацуа","dateTime":"2023-12-17 20:04:00Z","imgPath":"null"}]
+{
+    "events": [
+        {"id":"849cf421-e82a-4d45-84ec-e5ca255bc172","name":"тестттт","description":"авыафылатпфва","dateTime":"2023-12-17 00:00:00Z","imgPath":"null"},{"id":"8179f9e7-da11-4293-a002-0ad93c52a302","name":"тестттт1234124","description":"авыафылатпфваацуа","dateTime":"2023-12-17 20:04:00Z","imgPath":"null"}
+    ]
+}
